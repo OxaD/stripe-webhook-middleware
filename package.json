@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/eddywashere/stripe-webhook-middleware",
   "dependencies": {
-    "stripe": "^3.9.0"
+    "stripe": "*"
   }
 }
